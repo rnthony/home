@@ -18,4 +18,5 @@
     "display": "standalone",
     "scope": "/home/phone/",
     "theme_color": "#3367D6"
+    window.scrollTo(0,1);
   }
