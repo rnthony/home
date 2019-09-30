@@ -1,5 +1,5 @@
 {
-     window.scrollTo(0,1);
+     function window.scrollTo(0,1);
     "short_name": "tellez.xyz",
     "name": "tellez.xyz",
     "icons": [
