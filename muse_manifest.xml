@@ -1,4 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1569803598865">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1569905004136">
+  <folder name="css">
+    <file name="site_global.css" crc="4102597578"/>
+    <file name="master_a-master.css" crc="210861441" ref="index"/>
+    <file name="index.css" crc="297752578" ref="index"/>
+  </folder>
   <folder name="fonts">
     <file name="sfprotext-regular.woff" crc="416383421"/>
     <file name="sfprotext-regular.eot" crc="378433612"/>
@@ -6,73 +11,29 @@
     <file name="sfprotext-semibold.woff" crc="3943029224"/>
     <file name="sfprotext-semibold.eot" crc="3974572329"/>
     <file name="sfprotext-semibold.svg" crc="3900229408"/>
+    <file name="sfprotext-bold1.woff" crc="4011649130"/>
+    <file name="sfprotext-bold1.eot" crc="3807878149"/>
+    <file name="sfprotext-bold1.svg" crc="4222457611"/>
+    <file name="sfprodisplay-semibold1.woff" crc="124435119"/>
+    <file name="sfprodisplay-semibold1.eot" crc="422927970"/>
+    <file name="sfprodisplay-semibold1.svg" crc="4275929756"/>
   </folder>
   <folder name="assets">
     <file name="img_7403.heic" crc="251681561" seo="true" mt="1569799563000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="436950436"/>
-    <file name="master_a-master.css" crc="91265397" ref="index"/>
-    <file name="index.css" crc="497311577" ref="index"/>
-  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>resume:index:phone>scout"/>
-    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>resume:index:phone>scout"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>resume:index:phone>scout"/>
-    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>resume:index:phone>scout"/>
-    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>resume:index:phone>scout"/>
-    <file name="require.js" crc="3951022091" ref="phone>index:phone>resume:index:phone>scout"/>
-    <file name="webpro.js" crc="4143865194" ref="phone>resume:index:phone>scout"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="phone>resume:index:phone>scout"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>resume:index:phone>scout"/>
-    <file name="touchswipe.js" crc="4200445185" ref="phone>resume:index:phone>scout"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>resume:phone>scout:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>resume:phone>scout:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>resume:phone>scout:index"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>resume:phone>scout:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>resume:phone>scout:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:phone>resume:phone>scout:index"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>resume:phone>scout:index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>resume:phone>scout:index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>resume:phone>scout:index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>resume:phone>scout:index"/>
   </folder>
   <folder name="images">
-    <file name="pins-crop-u667.png" crc="4185826258" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pins-crop-u676.png" crc="345160538" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pins-crop-u670.png" crc="4261725920" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pins-crop-u679.png" crc="361767301" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pasted image 300x300.jpg" crc="32243737" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="callogo.png" crc="4090569546" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pacelogo.png" crc="3845988902" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="rutgersr.png" crc="4226772467" seo="true" ref="phone>resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pins-crop-u535.png" crc="4032075345" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pins-crop-u563.png" crc="3826570191" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pins-crop-u556.png" crc="52442287" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pins-crop-u542.png" crc="4071177824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pins-crop-u549.png" crc="447926980" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pins-crop-u525.png" crc="4210699217" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1775x1769-crop-u225.jpg" crc="4175920789" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pasted image 128x128.png" crc="324035286" seo="true" ref="phone>index:phone>resume:phone>scout">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
@@ -95,19 +56,43 @@
     <file name="u1680-a.png" crc="147904803" ref="phone>index:phone>resume:phone>scout"/>
     <file name="u1708.png" crc="308819668" ref="phone>index:phone>resume:phone>scout"/>
     <file name="u1708-a.png" crc="442027198" ref="phone>index:phone>resume:phone>scout"/>
+    <file name="pasted image 512x512.png" crc="4188507526" seo="true" ref="phone>index:phone>resume:phone>scout:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="scout" alt=""/>
+    </file>
     <file name="mapmap.png" crc="441636756" seo="true" ref="phone>resume">
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="pasted image 401x719-crop-u1788.png" crc="4014628175" seo="true" ref="phone>resume">
+    <file name="pins-crop-u667.png" crc="4185826258" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="pins-crop-u676.png" crc="345160538" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="pins-crop-u670.png" crc="4261725920" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="pins-crop-u679.png" crc="361767301" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="pasted image 401x719.png" crc="78128199" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="pasted image 300x300.jpg" crc="32243737" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="callogo.png" crc="4090569546" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="pacelogo.png" crc="3845988902" seo="true" ref="phone>resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="rutgersr.png" crc="4226772467" seo="true" ref="phone>resume">
       <caption webpage="resume" alt=""/>
     </file>
     <file name="uconnlogo.png" crc="4278183394" seo="true" ref="phone>resume">
       <caption webpage="resume" alt=""/>
-    </file>
-    <file name="pasted image 512x512.png" crc="4117473721" seo="true" ref="phone>index:phone>resume:phone>scout">
-      <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="scout" alt=""/>
     </file>
     <file name="pasted image 4032x3024.jpg" crc="391663334" seo="true" ref="phone>scout">
       <caption webpage="scout" alt=""/>
@@ -123,17 +108,35 @@
     <file name="pasted image 512x5122.png" crc="526648830" seo="true" ref="phone>scout">
       <caption webpage="scout" alt=""/>
     </file>
+    <file name="pins-crop-u525.png" crc="4210699217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 512x512-u2872.png" crc="4157471503" ref="index"/>
+    <file name="pasted image 512x512-u2882.png" crc="3801075823" ref="index"/>
+    <file name="pasted image 512x512-u2892.png" crc="4046308529" ref="index"/>
+    <file name="pasted image 2736x2592.jpg" crc="478573619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapplain copy.png" crc="4214888690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pins.png" crc="332948180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4119719456" ref="phone>index:phone>resume:phone>scout"/>
+      <file name="master_a-master.css" crc="3908524537" ref="phone>index:phone>resume:phone>scout"/>
       <file name="index.css" crc="205978191" ref="phone>index"/>
-      <file name="resume.css" crc="4153639378" ref="phone>resume"/>
+      <file name="resume.css" crc="4144642917" ref="phone>resume"/>
       <file name="scout.css" crc="31023064" ref="phone>scout"/>
     </folder>
-    <file name="index.html" crc="4048506597" seo="true" mt="1569803177553" redirect="true"/>
-    <file name="resume.html" crc="3938103709" seo="true" mt="1569803177553" redirect="true"/>
-    <file name="scout.html" crc="4012393558" seo="true" mt="1569803177553" redirect="true"/>
+    <file name="index.html" crc="4114443798" seo="true" mt="1569803158314" redirect="true"/>
+    <file name="resume.html" crc="428612151" seo="true" mt="1569809230827" redirect="true"/>
+    <file name="scout.html" crc="4191767622" seo="true" mt="1569803158314" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3994246644" seo="true" mt="1569798410907" redirect="true"/>
+  <file name="index.html" crc="3991029272" seo="true" mt="1569904983556" redirect="true"/>
 </manifest>
