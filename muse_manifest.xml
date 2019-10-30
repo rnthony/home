@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1572464618607">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1572465145989">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1570670243000"/>
   </folder>
